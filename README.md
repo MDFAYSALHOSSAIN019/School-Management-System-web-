@@ -55,7 +55,7 @@ Easily add new student to the School, including details .
 
 :pushpin: student Update page for Admin:
 Easily add new student to the School.
-![ Add Student page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-stview-2024-04-21-13_57_19.png?raw=true)
+![ View Student page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-stview-2024-04-21-13_57_19.png?raw=true)
 
 :pushpin: Teacher Add page for Admin:
 Easily add new Teacher.
@@ -70,7 +70,7 @@ Easily add Student Result
 ![ Add Result page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-resultadd-2024-04-21-14_00_41.png?raw=true)
 
 :pushpin: Students Result View page for Admin:
-Easily add new products to the shop inventory, including details such as name, description, category, quantity, and price.
+EasilyResult View.
 ![ View Product page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-resultview-2024-04-21-14_03_15.png?raw=true)
 
 :pushpin: Student Result Details page for Admin:
