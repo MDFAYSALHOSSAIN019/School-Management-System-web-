@@ -21,18 +21,18 @@ Introducing our Java Swing-based School Management system (SMS), a robust deskto
 
 ## Technologies used:-
 ### Front-End Development:
--  [<img src="Screenshot/Swing.png" width="80" height="80">](https://docs.oracle.com/javase/tutorial/uiswing/) Java Swing
+-  [<img src="Screenshot/Swing.png" width="80" height="80">](https://docs.oracle.com/javase/tutorial/uiswing/) Angular JS 17
 -  [<img src="https://github.com/fatemazohor/fatemazohor/blob/main/svg/css3.svg" width="80" height="80">](https://github.com/fatemazohor)Css
 -  [<img src="https://github.com/fatemazohor/fatemazohor/blob/main/svg/javascript.svg" width="80" height="80">](https://github.com/fatemazohor) Javascript
 - [<img src="https://github.com/fatemazohor/fatemazohor/blob/main/svg/bootstrap-logo-shadow.png" width="80" height="80">](https://github.com/fatemazohor) BootStrap
 ### Back-End Development
--  [<img src="Screenshot/Swing.png" width="80" height="80">](https://github.com/fatemazohor) Java Swing
+-  [<img src="Screenshot/Swing.png" width="80" height="80">](https://github.com/fatemazohor) Spring Boot
 -  [<img src="Screenshot/mysql.png" width="80" height="80">](https://github.com/fatemazohor) MySQL
 
 **==== Software And Tools Required ======**
 - :  [<img src="Screenshot/mysql.png" width="80" height="80">](https://github.com/fatemazohor) MySQL
 - :  MySQL Workbench
-- :  Apache NetBeans
+- :  IntelJ
 - :  [<img src="Screenshot/Java.png" width="80" height="80">](https://www.java.com/en/download/help/whatis_java.html) Java JDK 17+
   
 :pushpin: Login page for Admin:
