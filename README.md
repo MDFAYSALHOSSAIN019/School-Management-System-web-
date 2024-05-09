@@ -41,66 +41,66 @@ Implement secure user authentication and authorization mechanisms to control acc
 ![ Login page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/login.jpg?raw=true)
 
 :pushpin: Dashboard page for Admin:
-Our Java Swing-based Point of Sale (POS) system includes a dynamic dashboard feature, providing at-a-glance insights into crucial business metrics. The dashboard prominently displays total sales, purchase amount, and revenue percentage, offering a comprehensive overview of the shop's financial performance. With real-time updates and interactive visualization, owners can quickly assess their profitability and make informed decisions to drive growth. Experience the power of data-driven decision-making with our intuitive dashboard feature, empowering businesses to thrive in today's competitive market landscape.
+Our Java Spring Boot and Angular js-based School Management system (SMS)  includes a dynamic dashboard feature.
 ![ Home page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/1.png?raw=true))
 
 
-:pushpin: Product Add/Update page for Admin:
-Easily add new products to the shop inventory, including details such as name, description, category, quantity, and price.
-![ Add Product page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-stadd-2024-04-21-13_23_39.png?raw=true)
+:pushpin:student  Add page for Admin:
+Easily add new student to the School, including details .
+![ Add Student page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-stadd-2024-04-21-13_23_39.png?raw=true)
 
-:pushpin: Product Add/Update page for Admin:
-Easily add new products to the shop inventory, including details such as name, description, category, quantity, and price.
-![ Add Product page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-stview-2024-04-21-13_57_19.png?raw=true)
+:pushpin: student Update page for Admin:
+Easily add new student to the School.
+![ Add Student page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-stview-2024-04-21-13_57_19.png?raw=true)
 
-:pushpin: Product Add/Update page for Admin:
-Easily add new products to the shop inventory, including details such as name, description, category, quantity, and price.
-![ Add Product page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-teadd-2024-04-21-13_57_36.png?raw=true)
+:pushpin: Teacher Add page for Admin:
+Easily add new Teacher.
+![ Add Teacher page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-teadd-2024-04-21-13_57_36.png?raw=true)
 
-:pushpin: Product Add/Update page for Admin:
-Easily add new products to the shop inventory, including details such as name, description, category, quantity, and price.
-![ Add Product page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-teview-2024-04-21-13_58_00.png?raw=true)
+:pushpin: Teacher Update page for Admin:
+Easily Update the details of a Teacher.
+![ Update Teacher page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-teview-2024-04-21-13_58_00.png?raw=true)
 
-:pushpin: Product Add/Update page for Admin:
-Easily add new products to the shop inventory, including details such as name, description, category, quantity, and price.
-![ Add Product page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-resultadd-2024-04-21-14_00_41.png?raw=true)
+:pushpin: Student Result Add page for Admin:
+Easily add Student Result 
+![ Add Result page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-resultadd-2024-04-21-14_00_41.png?raw=true)
 
-:pushpin: Product Add/Update page for Admin:
+:pushpin: Students Result View page for Admin:
 Easily add new products to the shop inventory, including details such as name, description, category, quantity, and price.
-![ Add Product page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-resultview-2024-04-21-14_03_15.png?raw=true)
+![ View Product page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-resultview-2024-04-21-14_03_15.png?raw=true)
 
-:pushpin: Product Add/Update page for Admin:
-Easily add new products to the shop inventory, including details such as name, description, category, quantity, and price.
-![ Add Product page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-resultprofile-1-2024-04-21-14_03_48.png?raw=true)
+:pushpin: Student Result Details page for Admin:
+Easily Show Student Result Details One By One
+![ Student Result details page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-resultprofile-1-2024-04-21-14_03_48.png?raw=true)
 
-:pushpin: Product Add/Update page for Admin:
-Easily add new products to the shop inventory, including details such as name, description, category, quantity, and price.
-![ Add Product page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-fee-2024-04-21-14_04_41.png?raw=true)
+:pushpin: Student Fee View page for Admin:
+Easily view and Query a student are due any monthly Fee.
+![Fee View and Query page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-fee-2024-04-21-14_04_41.png?raw=true)
 
-:pushpin: Product Add/Update page for Admin:
-Easily add new products to the shop inventory, including details such as name, description, category, quantity, and price.
-![ Add Product page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-fee-2024-04-21-14_06_02.png?raw=true)
+:pushpin: Fee Collection page for Admin:
+Easily Fee Collection on the base of Student Uniqe Roll.
+![ Fee Collection page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-fee-2024-04-21-14_06_02.png?raw=true)
 
-:pushpin: Product Add/Update page for Admin:
-Easily add new products to the shop inventory, including details such as name, description, category, quantity, and price.
-![ Add Product page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-classrutineadd-2024-04-21-13_58_46.png?raw=true)
+:pushpin: Class Routine Add page for Admin:
+Easily add new Class Routine.
+![ Add Class Routine page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-classrutineadd-2024-04-21-13_58_46.png?raw=true)
 
-:pushpin: Product Add/Update page for Admin:
-Easily add new products to the shop inventory, including details such as name, description, category, quantity, and price.
-![ Add Product page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-classrutineview-2024-04-21-13_59_18.png?raw=true)
+:pushpin: Class Routine View page for Admin:
+Easily View a Class Routine On the base on Class.
+![ View Class  Routine page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-classrutineview-2024-04-21-13_59_18.png?raw=true)
 
-:pushpin: Product Add/Update page for Admin:
-Easily add new products to the shop inventory, including details such as name, description, category, quantity, and price.
-![ Add Product page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-examrutineadd-2024-04-21-13_59_43.png?raw=true)
+:pushpin: Exam Routine Add page for Admin:
+Easily Exam Routine Add.
+![Exam Routine Add page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-examrutineadd-2024-04-21-13_59_43.png?raw=true)
 
-:pushpin: Product Add/Update page for Admin:
-Easily add new products to the shop inventory, including details such as name, description, category, quantity, and price.
-![ Add Product page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-subjectadd-2024-04-21-14_14_02.png?raw=true)
+:pushpin: Subject Add page for Admin:
+Easily add new Subject For Class Routine Or Exam Routine.
+![ Add subject page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-subjectadd-2024-04-21-14_14_02.png?raw=true)
 
-:pushpin: Product Add/Update page for Admin:
-Easily add new products to the shop inventory, including details such as name, description, category, quantity, and price.
-![ Add Product page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-stattendanceadd-2024-04-21-14_11_00.png?raw=true)
+:pushpin:student Attandance page for Admin:
+Easily add Student Attandence
+![Studnte Attandence page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-stattendanceadd-2024-04-21-14_11_00.png?raw=true)
 
-:pushpin: Product Add/Update page for Admin:
-Easily add new products to the shop inventory, including details such as name, description, category, quantity, and price.
-![ Add Product page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-syllabusadd-2024-04-21-14_08_25.png?raw=true)
+:pushpin: Student Syllabus add page for Admin:
+Easily add new Syllabus For Student.
+![Syllabus page](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/screencapture-localhost-4200-syllabusadd-2024-04-21-14_08_25.png?raw=true)
