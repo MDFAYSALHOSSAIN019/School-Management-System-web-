@@ -7,10 +7,14 @@ back-end: Spring boot  font-end: Anglar 17
 # SMS Project.
 Introducing our Java Swing-based School Management system (SMS), a robust desktop application designed to streamline the operations of retail Education with efficiency and ease. With its intuitive interface and powerful features, our application empowers School owners to manage Student, Teeacher, Staff All Information. From Adding new Student, Teacher, Staff All information Such as Baio data , Academic information as like Result Sheet, Class Routine, Exam Routine, Payment Admit card etc. Experience the convenience and reliability of our Java Spring Boot And Angular-based School management system, revolutionizing the way you run your School.
 -----------------   ---------------------------------------------
-## There are 1 users in the system
+## There are 4 users in the system
+
 
 - Administrator
-
+- Teacher
+- Student
+- Public
+  
 ## The Role of Administrator is
 1. Add new Studnte, Teacher, Staff.
 2. View all the Student, Teacher, Staff.
@@ -26,7 +30,7 @@ Introducing our Java Swing-based School Management system (SMS), a robust deskto
 -  [<img src="https://github.com/fatemazohor/fatemazohor/blob/main/svg/javascript.svg" width="80" height="80">](https://github.com/fatemazohor) Javascript
 - [<img src="https://github.com/fatemazohor/fatemazohor/blob/main/svg/bootstrap-logo-shadow.png" width="80" height="80">](https://github.com/fatemazohor) BootStrap
 ### Back-End Development
--  [<img src="Screenshot/Swing.png" width="80" height="80">](https://github.com/fatemazohor) Spring Boot
+-  [<img src="Screenshot/Swing.png" width="80" height="80">]([https://github.com/fatemazohor](https://github.com/MDFAYSALHOSSAIN019/School-Management-System-web-/blob/main/Spring%20Boot%20Screen%20sort/spring%20boot%20pic.jpg?raw=true)) Spring Boot
 -  [<img src="Screenshot/mysql.png" width="80" height="80">](https://github.com/fatemazohor) MySQL
 
 **==== Software And Tools Required ======**
